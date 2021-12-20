@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @gc2211
-- 👀 I’m interested in travelling , languages , sport.
+- 👋 Hi,  
+- 👀 Interested in travelling , languages and sport.
 - 🌱 I’m currently learning how to program and code.
-- 📫 How to reach me gchtel@gmail.com 
+- 📫 You can reach me gchtel@gmail.com 
 
-<!---
-gc2211/gc2211 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
